@@ -1,2 +1,5 @@
-# clase_6
-Repositorio de ingenieria de software clase 6
+### Repositorio prueba
+
+IEXE Repositorio prueba 
+
+ #### Actividades GIT
